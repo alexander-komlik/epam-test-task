@@ -1,0 +1,27 @@
+<emails>
+    <email>
+        <to>qazwsx039@tut.by</to>
+        <subject>subj1</subject>
+        <body>Email body 1</body>
+    </email>
+    <email>
+        <to>qazwsx039@tut.by</to>
+        <subject>subj2</subject>
+        <body>Email body 2</body>
+    </email>
+    <email>
+        <to>qazwsx039@tut.by</to>
+        <subject>subj3</subject>
+        <body>Email body 3</body>
+    </email>
+    <email>
+        <to>qazwsx039@tut.by</to>
+        <subject>subj4</subject>
+        <body>Email body 4</body>
+    </email>
+    <email>
+        <to>qazwsx039@tut.by</to>
+        <subject>subj5</subject>
+        <body>Email body 5</body>
+    </email>
+</emails>
